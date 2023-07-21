@@ -18,6 +18,7 @@ garantir o sucesso do projeto.
 - Durante o desenvolvimento do projeto foi utilizada a linguagem de programação python com a biblioteca Pandas,
 tambem utilizei a metodologia de organização Kanban, Google Colab pra desenvolver o codigo e Git/GitHub para versionamento e armaazenar os arquivos
 no desenvolver do projeto primeiro criei uma tabela pra visualizar todos os dados:
+
  ![DataFrame com os dados organizados](./imagens/_tabela_dados_.png)
 
 ---
